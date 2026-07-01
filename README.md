@@ -206,22 +206,7 @@ The developed Smart Crop Protection System successfully detects approaching anim
 * GPS location tracking.
 * Machine learning for intelligent detection.
 
----
 
-# 📁 Folder Structure
-
-```text
-Smart-Crop-Protection-System/
-│
-├── Arduino_Code/
-├── Circuit_Diagram/
-├── Images/
-├── Components/
-├── Documentation/
-│    └── Project_Report.pdf
-├── README.md
-└── LICENSE
-```
 
 ---
 
